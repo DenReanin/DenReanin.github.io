@@ -1,41 +1,5 @@
 const projects = [
   {
-    name: "NASA NEO Tracker",
-    symbol: "NEO",
-    category: "interactive",
-    label: "GROUP PROJECT",
-    description: "An interactive 3D view of near-Earth objects, combining NASA data, asteroid filters and orbital visualisation.",
-    stack: "Angular · Three.js · NASA API",
-    links: [
-      { label: "Live demo", href: "https://space-app-devmediators.vercel.app/" },
-      { label: "Source code", href: "https://github.com/DenReanin/space-app" },
-    ],
-  },
-  {
-    name: "Code-Tracer",
-    symbol: "CT",
-    category: "interactive",
-    label: "BACHELOR'S THESIS",
-    description: "An interactive learning platform for propositional logic, natural deduction and guided exercises.",
-    stack: "Angular · Blockly · D3.js · KaTeX",
-    links: [
-      { label: "Live demo", href: "https://code-tracer.vercel.app/" },
-      { label: "Source code", href: "https://github.com/DenReanin/code-tracer" },
-    ],
-  },
-  {
-    name: "FieldMaster",
-    symbol: "FM",
-    category: "interactive",
-    label: "TEAM PROJECT · DEMO SNAPSHOT",
-    description: "A sports-play platform built around a custom WebGL engine. The public demo repository has intentionally disabled services.",
-    stack: "Angular · WebGL · Django · MySQL",
-    links: [
-      { label: "Demo repository", href: "https://github.com/DenReanin/fieldmaster_abp" },
-      { label: "Web client", href: "https://github.com/DenReanin/litesparkweb" },
-    ],
-  },
-  {
     name: "File Encryption App",
     symbol: "AES",
     category: "security",
