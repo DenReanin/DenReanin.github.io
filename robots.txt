@@ -1,0 +1,6 @@
+# Public single-page portfolio; section links are URL fragments.
+# This file guides crawlers and does not protect private files.
+User-agent: *
+Allow: /
+
+Sitemap: https://denreanin.me/sitemap.xml
